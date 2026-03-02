@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **.NET Game Launcher**
 
+- 🌱 I’m currently studying at **Faculty of Information Technology BUT**
+
 - 📫 How to reach me **lubomir.galikk@gmail.com**
 
-- 📄 Know about my experiences [in my CV](in my CV)
+- 📄 Know about my experiences in my CV.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
